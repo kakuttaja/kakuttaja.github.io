@@ -1,0 +1,7 @@
+theme: jekyll-theme-slate
+title: Cake
+description: A cake.
+plugins:
+  - jemoji
+url: "https://kakuttaja.github.io/"
+markdown: kramdown
