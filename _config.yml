@@ -2,7 +2,7 @@ remote-theme: pages-themes/hacker@v0.2.0
 title: Cake
 description: A cake.
 plugins:
-  - jemoji
-  - jekyll-remote-theme 
+- jemoji
+- jekyll-remote-theme 
 url: "https://kakuttaja.github.io/"
 markdown: kramdown
